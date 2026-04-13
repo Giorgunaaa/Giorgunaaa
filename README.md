@@ -72,12 +72,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Giorgunaa\&show_icons=true)
-
----
-
 ## 📫 Contact Me
 
 * 📧 Email: [ggiorgobiani349@gmail.com](mailto:ggiorgobiani349@gmail.com)
