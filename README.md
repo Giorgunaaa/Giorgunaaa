@@ -27,7 +27,7 @@
 
 ---
 
-### 🛒 E-Commerce API *(Coming Soon)*
+### 🛒 E-Commerce API
 
 * JWT Authentication & Authorization
 * Product, Order, Cart Management
